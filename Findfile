@@ -2,7 +2,6 @@
 # file.sh: a simple shell script to demonstrate the concept of Bash shell functions
 # define usage function
 
-filename = /etc/sysconfig/network-scripts/eth0
 usage(){
   echo "Usage: $0 filename"
 	exit 1
